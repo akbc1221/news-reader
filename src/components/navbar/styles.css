@@ -1,0 +1,28 @@
+.nav {
+  height: 71px;
+  overflow: hidden;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0px 1px 8px #888888;
+  display: flex;
+  align-items: center;
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+.nav-img {
+  height: 80%;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+h3 {
+  margin: 0.75rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.icon {
+  flex: 0.5;
+}
