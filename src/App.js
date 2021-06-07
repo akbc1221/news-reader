@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <div className="App" id="#home">
-      <Navbar setCategory={setCategory} searchQuery={}/>
+      <Navbar setCategory={setCategory} />
       {newsResults && (
         <NewsContent
           newsArray={newsArray}

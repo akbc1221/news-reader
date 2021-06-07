@@ -33,7 +33,7 @@ const NewsContent = ({ newsArray, loadMore, setLoadMore, newsResults }) => {
               className="loadMore"
               onClick={() => setLoadMore(loadMore + 20)}
             >
-              Load More
+              Load More...
             </button>
           </>
         )}

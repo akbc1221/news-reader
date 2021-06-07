@@ -26,3 +26,18 @@ h3 {
 .icon {
   flex: 0.5;
 }
+
+.search {
+  display: flex;
+  flex: 0.5;
+}
+
+.search-icon {
+  background-color: #6dac94;
+  color: white;
+  margin: auto 0;
+  height: 1.5rem;
+  width: 1.75rem;
+  border-bottom-right-radius: 0.35rem;
+  border-top-right-radius: 0.35rem;
+}

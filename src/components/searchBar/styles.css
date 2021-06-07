@@ -1,0 +1,10 @@
+.search {
+  height: 1.3rem;
+  width: 4rem;
+  border-color: rgb(114, 226, 226);
+  border-width: 1px;
+  border-top-left-radius: 0.35rem;
+  border-bottom-left-radius: 0.35rem;
+  font-size: 14px;
+  padding-left: 0.75rem;
+}
